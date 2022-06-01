@@ -37,3 +37,23 @@ GRANT UPDATE ON sfg_prod.* to 'sfg_prod_user'@'%';
 
 
 HOTOVO, vsetko fungovalo...
+
+
+
+
+
+
+
+
+
+
+
+
+Potom sme vytvorili
+application-dev.yml         a           application-prod.yml
+Oboje generuju SQL skripty, ktore treba spustit cez workbench cez jednotlivych databazach (sfg_dev  a   sfg_prod).
+Nasledne sme zmenili aj BootstrapClasses lebo to robilo error.
+
+
+
+
