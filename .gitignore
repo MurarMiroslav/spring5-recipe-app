@@ -12,7 +12,14 @@ target/
 .settings
 .springBeans
 .sts4-cache
+
+### Gradle ###
+.gradle/*
 .gradle/**
+.gradle/**/
+.gradle
+**/build/
+!src/**/build/
 
 ### IntelliJ IDEA ###
 .idea
