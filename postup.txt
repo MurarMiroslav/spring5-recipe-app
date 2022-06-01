@@ -1,0 +1,4 @@
+Proste som to cele prekopiroval z originla kurzu, potom som musel ale nastavit v setting projektu zv build -> gradle ze ma cerpat z
+    wrapper task in Gradle wrapper
+    java 1.8 torreto.
+
